@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProvaDevAndroid</string>
+    <string name="loginText">Entrar</string>
+    <string name="userText">Usuário</string>
+    <string name="passwordText">Senha</string>
+    <string name="rememberText">Lembrar?</string>
+    <string name="appNameText">Zero\nLixo</string>
+    <string name="coletaText">Obrigado por nos informar sobre o lixo, \n\n ele será coletado em breve</string>
+    <string name="enviarNovamenteButtonText">Enviar novo lixo</string>
+    <string name="coletarButtonText">Coletar Lixo</string>
+    <string name="marqueText">Marque o lixo no mapa!</string>
+</resources>

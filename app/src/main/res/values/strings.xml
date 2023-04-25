@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProvaDevAndroid</string>
+    <string name="loginText">Login</string>
+    <string name="userText">User</string>
+    <string name="passwordText">Password</string>
+    <string name="rememberText">Remember?</string>
+    <string name="appNameText">Zero\nTrash</string>
+    <string name="coletaText">Thank you for informing us of the garbage, \n\nit will be collected soon</string>
+    <string name="enviarNovamenteButtonText">Send New Trash</string>
+    <string name="coletarButtonText">Collect garbage</string>
+    <string name="marqueText">Mark the trash on map!</string>
+</resources>
